@@ -36,7 +36,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\BattleSystem.cs" />
+     <Compile Include="Assets\Script\BattleSystem.cs" />
      <Compile Include="Assets\Script\Unit.cs" />
      <Compile Include="Assets\Script\BattleHUD.cs" />
     <Reference Include="UnityEngine">

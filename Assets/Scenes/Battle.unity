@@ -715,7 +715,7 @@ SpriteRenderer:
   m_Size: {x: 5.5, y: 1.6875}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &776899475
@@ -1836,7 +1836,7 @@ SpriteRenderer:
   m_Size: {x: 5.5, y: 1.6875}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!4 &1466009198
@@ -2525,12 +2525,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ace5d3b76e8bbd94d8faa070310b062d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerPrefab: {fileID: 5674484368629161613, guid: 10021f1ffb851ee42a2f9e2ce33428b7,
+  playerPrefab: {fileID: 6375180792110928183, guid: 9de512d4466cfda4db61548a5a01874e,
     type: 3}
-  enemyPrefab: {fileID: 5046871492963100558, guid: 302bdc8dead690247957754e115acde3,
+  enemyPrefab: {fileID: 1701054387155307954, guid: 85296e13e8aba2c45bdd8c263b16c738,
     type: 3}
-  playerBattleStation: {fileID: 776899475}
-  enemyBattleStation: {fileID: 1466009198}
   dialogueText: {fileID: 1584004651}
   playerHUD: {fileID: 1093305115}
   enemyHUD: {fileID: 1290496122}
