@@ -39,6 +39,7 @@
      <Compile Include="Assets\Script\BattleSystem.cs" />
      <Compile Include="Assets\Script\Unit.cs" />
      <Compile Include="Assets\Script\BattleHUD.cs" />
+     <Compile Include="Assets\Script\Menu.cs" />
     <Reference Include="UnityEngine">
         <HintPath>E:\Compilador Unity\2020.3.43f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
